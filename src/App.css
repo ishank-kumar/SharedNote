@@ -1,0 +1,13 @@
+.details{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  /* background-color: red; */
+}
+
+.details .h2{
+  font-size: 2rem;
+  color: yellowgreen;
+}
